@@ -1,1 +1,3 @@
-Initial Commit
+## IIIT Magazine
+
+Nothing as of now
